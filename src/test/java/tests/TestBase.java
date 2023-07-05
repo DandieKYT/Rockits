@@ -6,6 +6,8 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import pages.BasePage;
+import pages.ContactFormPage;
+import pages.PrivacyPolicePage;
 import pages.VacationsPage;
 
 import java.util.Map;
@@ -16,6 +18,9 @@ public class TestBase extends Attachment {
     Attachment attachment = new Attachment();
     BasePage basePage = new BasePage();
     VacationsPage vacationsPage = new VacationsPage();
+    PrivacyPolicePage privacyPolicepage = new PrivacyPolicePage();
+
+    ContactFormPage contactFormPage = new ContactFormPage();
 
     @BeforeAll
     static void setUp() {
