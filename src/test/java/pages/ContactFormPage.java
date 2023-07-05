@@ -58,10 +58,4 @@ public class ContactFormPage {
         });
         return this;
     }
-    public ContactFormPage successFormMessage() {
-        step("Проверка успешной отправки формы", () -> {
-            successFormMessage.shouldBe(Condition.visible);
-        });
-        return this;
-    }
 }
