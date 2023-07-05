@@ -18,6 +18,7 @@ public class TestBase extends Attachment {
     PrivacyPolicePage privacyPolicepage = new PrivacyPolicePage();
     SearchPage searchPage = new SearchPage();
     ContactFormPage contactFormPage = new ContactFormPage();
+    ItRecruterPage itRecruterPage = new ItRecruterPage();
 
     @BeforeAll
     static void setUp() {
