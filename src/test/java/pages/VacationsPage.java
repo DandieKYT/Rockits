@@ -12,18 +12,21 @@ public class VacationsPage {
             actualVacation = $x("//*[contains(@class, 'tn-elem__3560405271628414205009')]//a[text()='Кого ищем']"),
             vacationQA = $x("//div[text()='QA инженер (тестировщик)']"),
             JavaQA = $x("//div[text()='QA инженер (тестировщик)']");
+
     public VacationsPage actualVacation() {
         step("Открытие вкладки вакансии", () -> {
             actualVacation.click();
         });
         return this;
     }
+
     public VacationsPage vacationQA() {
         step("Проверка наличия вакансии", () -> {
             vacationQA.shouldHave(Condition.visible);
         });
         return this;
     }
+
     public VacationsPage JavaQA() {
         step("Проверка языка програмированния для вакансии", () -> {
             JavaQA.shouldHave(Condition.visible);
