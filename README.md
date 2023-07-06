@@ -62,7 +62,7 @@
  <code><a href="https://rockits.ru/#rec356687626"><img src="/design/icons/rokits.jpeg" width="60"></a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://rockits.ru/#rec356687626">Rockits!</a> — агенство IT-рекрутинга.
  :star2:
  
- <a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/Rockit"><h2>👷‍♂️ Сборки в [Jenkins]()<h2></a>
+ <a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/Rockit/"><h2>👷‍♂️ Сборки в [Jenkins]()<h2></a>
 
 ![image](https://github.com/DandieKYT/Rokits-/assets/75677738/f187311a-5509-4cb4-ad90-fe45e6f83811)
 
