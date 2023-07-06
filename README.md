@@ -59,7 +59,7 @@
  </br>
  
  <a name="Project"><h2>Проект</h2></a>
- <code><a href="https://rockits.ru/#rec356687626">![This is an image](/design/icons/rokits.jpeg)</a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://rockits.ru/#rec356687626">Rockits!</a> — агенство IT-рекрутинга.
+ <code><a href="https://rockits.ru/#rec356687626"><img src="/design/icons/rokits.jpeg" width="60"></a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://rockits.ru/#rec356687626">Rockits!</a> — агенство IT-рекрутинга.
  :star2:
  
  <a name="Build_in_Jenkins" href="https://github.com/DandieKYT/Lanit/actions"><h2>👷‍♂️ Сборки в [GitHub Actions](https://github.com/DandieKYT/Lanit/actions)<h2></a>
