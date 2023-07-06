@@ -55,17 +55,16 @@
 🔎 Поиск на сайте Rokit! <a href = "https://rockits.ru/blog?search=qa&slice=1&searchtarget=null">по запросу "QA"</a>
 и проверка содержимого страницы</br>
  
- 🔎: Проверка страницы <a href = "https://rockits.ru/privacy-policy">Политика Кофидециальности</a>
+ 🔎: Проверка страницы <a href = "https://rockits.ru/privacy-policy">Политика конфиденциальности</a>
  </br>
  
  <a name="Project"><h2>Проект</h2></a>
  <code><a href="https://rockits.ru/#rec356687626"><img src="/design/icons/rokits.jpeg" width="60"></a></code>Проект по автоматизации тестирования для <a target="_blank" href="https://rockits.ru/#rec356687626">Rockits!</a> — агенство IT-рекрутинга.
  :star2:
  
- <a name="Build_in_Jenkins" href="https://github.com/DandieKYT/Lanit/actions"><h2>👷‍♂️ Сборки в [GitHub Actions](https://github.com/DandieKYT/Lanit/actions)<h2></a>
+ <a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/Rockit/"><h2>👷‍♂️ Сборки в [Jenkins]()<h2></a>
 
-![Screenshot_6](https://github.com/DandieKYT/Lanit/assets/75677738/4792be6f-63c7-4e23-8660-e3fb212f5835)
-
+![image](https://github.com/DandieKYT/Rokits-/assets/75677738/f187311a-5509-4cb4-ad90-fe45e6f83811)
 
 
 <a name="terminal"><h2>:computer: Запуск из терминала</h2></a>
@@ -76,16 +75,25 @@
 clean test
 
 ```
+Локальный запуск:
+
+```
+
+./gradlew clean test
+
+```
 <a name="Allure_report"><h2>:chart_with_downwards_trend: Allure </a><a href="https://dandiekyt.github.io/Lanit/3/">отчет</a></h2>
 
 - <a name="Allure_report1"><h3>Главный экран отчета</h3></a>
 
-![Screenshot_7](https://github.com/DandieKYT/Lanit/assets/75677738/4febe31d-d58f-4d0e-93ea-060200b6c497)
+![image](https://github.com/DandieKYT/Rokits-/assets/75677738/36cb2d92-b446-46c1-a850-cfda9427cff9)
+
 
 
 -  <a name="Allure_report2"><h3>Страница с проведенными тестами</h3></a>
 
-![Screenshot_8](https://github.com/DandieKYT/Lanit/assets/75677738/70028383-f420-42f8-a89b-cfd4d36a589c)
+![image](https://github.com/DandieKYT/Rokits-/assets/75677738/f2d7385c-13fa-4628-87e2-64643e07a7fc)
+
 
     
 <a name="Integration_Allure_TestOps"><h2>:bar_chart: Интеграция с Allure TestOps</h2></a>
@@ -101,16 +109,19 @@ clean test
 
 <a name="Telegram"><h2>:iphone: Отчет в Telegram</h2></a>
 
-![telegram](https://github.com/DandieKYT/Lanit/assets/75677738/3def35d8-1581-4b11-a19e-0c8e45b2030f)
+![image](https://github.com/DandieKYT/Rokits-/assets/75677738/e3c3a4a4-3301-4994-85aa-9319b9759f3b)
+
 
 
 
 <a name="Video"><h2>:movie_camera: Видео примеры прохождения тестов</h2></a>
 
 - <a name="Video1"><h3>Пример запуска тестов через selenoid</h3></a>
-    <h1><a href="https://selenoid.autotests.cloud/video/2d5ca5c333f5f2471bbcdadf532a9c73.mp4">Test suite Lanit<br>
+    <h1><a href="https://selenoid.autotests.cloud/video/b6d94c7b2570e5be40d166c0baa666e5.mp4">Test suite<br>
   
 
-https://github.com/DandieKYT/Lanit/assets/75677738/ccac7ffd-7abb-4ce7-901c-e97057c0e46a
+https://github.com/DandieKYT/Rokits-/assets/75677738/0e750bdd-3277-4ed1-a3a3-ab905ae4ddd7
+
+
 
 
