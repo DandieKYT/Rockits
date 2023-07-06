@@ -117,7 +117,7 @@ clean test
 <a name="Video"><h2>:movie_camera: Видео примеры прохождения тестов</h2></a>
 
 - <a name="Video1"><h3>Пример запуска тестов через selenoid</h3></a>
-    <h1><a href="https://selenoid.autotests.cloud/video/b6d94c7b2570e5be40d166c0baa666e5.mp4">Test suite<br>
+    <h1><a href="https://selenoid.autotests.cloud/video/b6d94c7b2570e5be40d166c0baa666e5.mp4">Ссылка на тест<br>
   
 
 https://github.com/DandieKYT/Rokits-/assets/75677738/0e750bdd-3277-4ed1-a3a3-ab905ae4ddd7
