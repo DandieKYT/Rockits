@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 public class VacationsTest extends TestBase {
     @Tag("RokitTest")
-    @Tag("SearchTest")
+    @Tag("VacationTest")
     @Test
     @Owner("Kudryavtsev")
     @Feature("Открытие вакансии тестировщик ")

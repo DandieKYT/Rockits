@@ -11,8 +11,8 @@ public class PrivacyPoliceTest extends TestBase {
     @Tag("PrivacyPoliceTest")
     @Test
     @Owner("Kudryavtsev")
-    @Feature("Проверка открытия ")
-    @Story("Открытие и проверка страницы IT-рекрутер")
+    @Feature("Проверка открытия политики конфиденциальности ")
+    @Story("Проврека содержимого политики конфиденциальности")
     public void PrivacyPolice() {
         basePage.openPage();
         privacyPolicepage.privacyPolicePage();
