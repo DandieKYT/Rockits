@@ -103,7 +103,8 @@ clean test
     
     
 
-![Screenshot_9](https://github.com/DandieKYT/Lanit/assets/75677738/c97af6e8-5639-4d45-bc06-a2fce5736937)
+![image](https://github.com/DandieKYT/Rokits-/assets/75677738/4f2ee604-5cc9-4f9e-8e24-7a4b2ddf8ce9)
+
 
 
 
