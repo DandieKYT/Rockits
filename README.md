@@ -5,7 +5,7 @@
 + [✍Описаниe](#Description)
 + [:heavy_check_mark:  Реализованные проверки:](#ImplementedСhecks)
 + [🎯Проект](#Project)
-+ [👷‍♂️ Сборка в GitHub Actions](#Build_in_Jenkins)
++ [👷‍♂️ Сборка в Jenkins](#Build_in_Jenkins)
 + [🖥 Запуск из терминала](#terminal)
 + [:chart_with_downwards_trend: Allure отчет](#Allure_report)
     + [Главный экран отчета](#Allure_report1)
