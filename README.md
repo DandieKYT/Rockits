@@ -82,7 +82,7 @@ clean test
 ./gradlew clean test
 
 ```
-<a name="Allure_report"><h2>:chart_with_downwards_trend: Allure </a><a href="https://dandiekyt.github.io/Lanit/3/">отчет</a></h2>
+<a name="Allure_report"><h2>:chart_with_downwards_trend: Allure </a><a href="https://jenkins.autotests.cloud/job/Rockit/2/allure/#">отчет</a></h2>
 
 - <a name="Allure_report1"><h3>Главный экран отчета</h3></a>
 
