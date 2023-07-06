@@ -46,20 +46,16 @@
  
  <a name="ImplementedСhecks"><h2>:heavy_check_mark:  Реализованные проверки:</h2></a>
  
- :clipboard: Наличие вакансии тестировщика на <a href = "https://job.lanit.ru/main/index.html">Lanit </br>
+ :clipboard:Проверка наличия вакансии тестировщик <a href = "https://rockits.ru/#rec356213932">со знанием Java </br>
  
- :speech_balloon: Открытие страницы проекты в<a href = "https://www.lanit.ru/projects/?arrFilter_pf%5BLINE_OF_BUSINESS%5D=-1&arrFilter_pf%5BINDUSTRY%5D=16424&arrFilter_pf%5BCLIENT%5D=-1&set_filter=Y"> банковской отрасли
-  </br>
+ :speech_balloon: Открытие и проверка страницы<a href = "https://school.rockits.ru/it-recruiter-course"> IT-рекрутер</br>
  
- :clipboard:Открытие страниц 
- <a href = "https://www.lanit.ru/activities/">Деятельность</a>/<a href = "https://www.lanit.ru/projects/">Проекты</a>
-</br>
+ :clipboard:Проверка формы отправки  <a href = "https://www.lanit.ru/activities/">контактных данных</a></br>
 
-🔎 Поиск на сайте Lanit <a href = "https://www.lanit.ru/search/?q=QA">по запросу "QA"</a> и проверка 
-содержимого страницы
-</br>
+🔎 Поиск на сайте Rokit! <a href = "https://rockits.ru/blog?search=qa&slice=1&searchtarget=null">по запросу "QA"</a>
+и проверка содержимого страницы</br>
  
- 🔎: Проверка страницы компании в <a href = "https://vk.com/lanit_life">ВК</a>
+ 🔎: Проверка страницы <a href = "https://vk.com/lanit_life">Политика Кофидециальности</a>
  </br>
  
  <a name="Project"><h2>Проект</h2></a>
